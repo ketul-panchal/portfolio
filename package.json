@@ -2,7 +2,7 @@
   "private": true,
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://ketul-panchal.github.io/portfolio",
+  "homepage": "https://ketul-panchal.github.io/home",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
