@@ -577,7 +577,7 @@ const publications = {
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
       description: "Food App that's help people easly order food and fast delivery",
-      url: "https://blog.paperspace.com/consistency-models/",
+      //url: "https://blog.paperspace.com/consistency-models/",
     },
     {
       id: "consistency-models",
