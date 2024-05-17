@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "I'm a full stack web developer with expertise in MERN, Next.js, Flutter. My strengths lie in building scalable and reliable applications, with a focus on creating intuitive user experiences. I'm skilled in both backend and frontend development.",
   resumeLink:
-    "https://drive.google.com/file/d/1YFeZWfw1b6LmfIoyuV6tDMkSgog_RrcO/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1UbK2JWwgEFSIuvong6QYrl3cVxq-nBd7/view?usp=sharing",
+  // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/kpanchal9",
 };
 
@@ -156,7 +156,7 @@ const skills = {
           },
         },
         {
-          skillName: "Laravel",
+          skillName: "PHP",
           fontAwesomeClassname: "simple-icons:php",
           style: {
             color: "blue",
@@ -577,21 +577,42 @@ const publications = {
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
       description: "Food App that's help people easly order food and fast delivery",
-      url: "https://blog.paperspace.com/consistency-models/",
+      url: "https://github.com/ketul-panchal/food-app",
     },
     {
       id: "consistency-models",
       name: "Yummy - Restaurant website",
       createdAt: "HTML, EJS, Bootstrap, CSS, JavaScript, Node.js, Express.js, MongoDB.",
       description: "Yummy is a restaurant website with both admin and user side,Users can book a table ,add food. Admin dashboard can perform CRUD operations",
-      // url: "https://blog.paperspace.com/consistency-models/",
+      url: "https://github.com/ketul-panchal/yummy-restorent-website",
     },
     {
       id: "consistency-models",
       name: "BAZAR E-commerce Website - MERN Stack",
       createdAt: "React, Node.js, Express.js, MongoDB, Bootstrap, Tailwind CSS",
       description: "Bazar is an E-commerce website both admin and user side. Admin panel using restful API, MVC Framework, complete CRUD operations. Users can show the products and detail",
-      // url: "https://blog.paperspace.com/consistency-models/",
+      url: "https://github.com/ketul-panchal/ecommerce-mern-website",
+    },
+    {
+      id: "consistency-models",
+      name: "Bus Ticket Booking",
+      createdAt: "Visual C#.Net, MySQL Server",
+      description: "Admin can easly book bus and print customer ticket has time of registration",
+      url: "https://github.com/ketul-panchal/BusTicketBooking",
+    },
+    {
+      id: "consistency-models",
+      name: "TouristGuide",
+      createdAt: "Visual C#.Net, MySQL Server",
+      description: "Tuurist can easly explore new place according to their choice and fine the best place for travel",
+      url: "https://github.com/ketul-panchal/turist-guide",
+    },
+    {
+      id: "consistency-models",
+      name: "Product Deshoard - Next14",
+      createdAt: "Next.js, Express.js, Node.js, MongoDB",
+      description: "Admin can login and manage the products, sells and insert product, Sells",
+      url: "https://github.com/ketul-panchal/Next-js-dashboard",
     },
   ],
 };
