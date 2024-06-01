@@ -16,7 +16,7 @@
 - After the successful installation of `nodejs` and `npm`, clone the repository into your local system using below command:
 
   ```bash
-   git clone https://github.com/ketul-panchal/portfolio
+   git clone https://github.com/ketul-panchal/portfolio.git
   ```
   
 This will clone the whole repository in your system.
