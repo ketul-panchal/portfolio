@@ -381,17 +381,17 @@ const experience = {
       title: "Work",
       work: true,
       experiences: [
-        // {
-        //   title: "Machine Learning Engineer",
-        //   company: "TikTok Inc.",
-        //   company_url: "https://www.tiktok.com/en/",
-        //   logo_path: "tiktok_logo.png",
-        //   duration: "June 2023 - Present",
-        //   location: "San Jose, CA, USA",
-        //   description:
-        //     "Improving ads ranking models on the core TikTok product. Experience working on modeling two-tower architectures like DeepFM, Wide & deep learning, etc. Working on Large Language Models (LLM) pretraining and Large Multi-modal Model (LMM) finetuning strategies.",
-        //   color: "#000000",
-        // },
+        {
+          title: "Software Developer",
+          company: "Brainbean Technolabs Pvt Ltd",
+          company_url: "https://www.linkedin.com/company/brain-bean-technolabs/mycompany/",
+          logo_path: "brain_bean_technolabs_logo.jpg",
+          duration: "June 2024 - Present",
+          location: "Anand, Gujarat, India",
+          description:
+            "Brainbean is USA base company. here i Building real world project and work as software developer.",
+          color: "#000000",
+        },
         {
           title: "Full Stack web development Intern",
           company: "TechnoGuide Infosoft Private Limited",
@@ -403,17 +403,17 @@ const experience = {
             "Building a website that base on QR code an help the people in accident provide all infromations about partition.",
           color: "#000000",
         },
-        {
-          title: "Software Developer",
-          company: "Brainbean Technolabs Pvt Ltd",
-          company_url: "https://www.linkedin.com/company/brain-bean-technolabs/mycompany/",
-          logo_path: "brain_bean_technolabs_logo.jpg",
-          duration: "June 2024 - Present",
-          location: "Anand, Gujarat, India",
-          description:
-            "Brainbean is USA base company. here i Building real world project and work as software developer",
-          color: "#000000",
-        },
+        // {
+        //   title: "Software Developer",
+        //   company: "Brainbean Technolabs Pvt Ltd",
+        //   company_url: "https://www.linkedin.com/company/brain-bean-technolabs/mycompany/",
+        //   logo_path: "brain_bean_technolabs_logo.jpg",
+        //   duration: "June 2024 - Present",
+        //   location: "Anand, Gujarat, India",
+        //   description:
+        //     "Brainbean is USA base company. here i Building real world project and work as software developer",
+        //   color: "#000000",
+        // },
         // {
         //   title: "Associate AI Engineer",
         //   company: "Legato Health Technology",
