@@ -393,7 +393,7 @@ const experience = {
         //   color: "#000000",
         // },
         {
-          title: "web development Intern",
+          title: "Full Stack web development Intern",
           company: "TechnoGuide Infosoft Private Limited",
           company_url: "https://technoguideinfo.com/",
           logo_path: "technoguid.jpeg",
@@ -401,6 +401,17 @@ const experience = {
           location: "Anand, Gujarat, India",
           description:
             "Building a website that base on QR code an help the people in accident provide all infromations about partition.",
+          color: "#000000",
+        },
+        {
+          title: "Software Developer",
+          company: "Brainbean Technolabs Pvt Ltd",
+          company_url: "https://www.linkedin.com/company/brain-bean-technolabs/mycompany/",
+          logo_path: "brain_bean_technolabs_logo.jpg",
+          duration: "June 2024 - Present",
+          location: "Anand, Gujarat, India",
+          description:
+            "Brainbean is USA base company. here i Building real world project and work as software developer",
           color: "#000000",
         },
         // {
