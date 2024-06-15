@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d19e839037aa0340558b43ce5b7a7e94",
+    "revision": "c5232d9a2c76205d0267080828e65bdb",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "bb5aeea576efc0104f8d",
+    "revision": "928895e303d299d2465e",
     "url": "/portfolio/static/css/main.fc347d70.chunk.css"
   },
   {
-    "revision": "f46280e3a5a593d15d92",
-    "url": "/portfolio/static/js/2.5bdd2835.chunk.js"
+    "revision": "8b684cc4c0df0f35cad7",
+    "url": "/portfolio/static/js/2.37d805e0.chunk.js"
   },
   {
-    "revision": "bb5aeea576efc0104f8d",
-    "url": "/portfolio/static/js/main.03dbe5fd.chunk.js"
+    "revision": "928895e303d299d2465e",
+    "url": "/portfolio/static/js/main.3584b176.chunk.js"
   },
   {
     "revision": "e73ac9e279836ecdfedf",
@@ -70,6 +70,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "058eca4cbdc03a1dad9a6bb943ac7831",
     "url": "/portfolio/static/media/blogs_image.058eca4c.svg"
+  },
+  {
+    "revision": "1c2a0018b4c7f20f5106ff88d56b7edb",
+    "url": "/portfolio/static/media/brain_bean_technolabs_logo.1c2a0018.jpg"
   },
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",

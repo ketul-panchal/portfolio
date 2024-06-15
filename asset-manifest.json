@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.fc347d70.chunk.css",
-    "main.js": "/portfolio/static/js/main.03dbe5fd.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.03dbe5fd.chunk.js.map",
+    "main.js": "/portfolio/static/js/main.3584b176.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.3584b176.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.aa1db941.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.aa1db941.js.map",
-    "static/js/2.5bdd2835.chunk.js": "/portfolio/static/js/2.5bdd2835.chunk.js",
-    "static/js/2.5bdd2835.chunk.js.map": "/portfolio/static/js/2.5bdd2835.chunk.js.map",
+    "static/js/2.37d805e0.chunk.js": "/portfolio/static/js/2.37d805e0.chunk.js",
+    "static/js/2.37d805e0.chunk.js.map": "/portfolio/static/js/2.37d805e0.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.b220574b226777606a1a1da58d1857cc.js": "/portfolio/precache-manifest.b220574b226777606a1a1da58d1857cc.js",
+    "precache-manifest.6c045baa66d36cf373b47c1162525e4d.js": "/portfolio/precache-manifest.6c045baa66d36cf373b47c1162525e4d.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/main.fc347d70.chunk.css.map": "/portfolio/static/css/main.fc347d70.chunk.css.map",
     "static/media/index.css": "/portfolio/static/media/Montserrat-Regular.ee653992.ttf",
@@ -17,6 +17,7 @@
     "static/media/animated_ashutosh.png": "/portfolio/static/media/animated_ashutosh.eaf02c2d.png",
     "static/media/animated_logo.svg": "/portfolio/static/media/animated_logo.dcd6dee2.svg",
     "static/media/blogs_image.svg": "/portfolio/static/media/blogs_image.058eca4c.svg",
+    "static/media/brain_bean_technolabs_logo.jpg": "/portfolio/static/media/brain_bean_technolabs_logo.1c2a0018.jpg",
     "static/media/cloud_infrastructure.svg": "/portfolio/static/media/cloud_infrastructure.cacbc42b.svg",
     "static/media/codeInLogo.png": "/portfolio/static/media/codeInLogo.fee92c18.png",
     "static/media/contactMail.png": "/portfolio/static/media/contactMail.5f915405.png",
@@ -57,8 +58,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.aa1db941.js",
-    "static/js/2.5bdd2835.chunk.js",
+    "static/js/2.37d805e0.chunk.js",
     "static/css/main.fc347d70.chunk.css",
-    "static/js/main.03dbe5fd.chunk.js"
+    "static/js/main.3584b176.chunk.js"
   ]
 }
