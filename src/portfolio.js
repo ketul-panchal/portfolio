@@ -169,6 +169,20 @@ const skills = {
             color: "green",
           },
         },
+        {
+          skillName: "typescript",
+          fontAwesomeClassname: "simple-icons:typescript",
+          style: {
+            color: "blue",
+          },
+        },
+        {
+          skillName: "typescript",
+          fontAwesomeClassname: "simple-icons:",
+          style: {
+            color: "blue",
+          },
+        },
       ],
     },
     {
@@ -203,6 +217,13 @@ const skills = {
           },
         },
         {
+          skillName: "PostgreSQL",
+          fontAwesomeClassname: "simple-icons:postgresql",
+          style: {
+            color: "#336791",
+          },
+        },
+        {
           skillName: "MongoDB",
           fontAwesomeClassname: "simple-icons:mongodb",
           style: {
@@ -216,7 +237,13 @@ const skills = {
             color: "#FFCA28",
           },
         },
-        
+        {
+          skillName: "Vercel",
+          fontAwesomeClassname: "simple-icons:vercel",
+          style: {
+            color: "black",
+          },
+        },
       ],
     },
     
