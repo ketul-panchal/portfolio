@@ -213,6 +213,7 @@ const skills = {
         },
       ],
     },
+    
     {
       title: "Cloud Infra-Architecture",
       fileName: "CloudInfraImg",
