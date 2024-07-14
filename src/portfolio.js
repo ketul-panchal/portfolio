@@ -163,6 +163,13 @@ const skills = {
           },
         },
         {
+          skillName: "python",
+          fontAwesomeClassname: "simple-icons:python",
+          style: {
+            color: "#306998",
+          },
+        },
+        {
           skillName: "express",
           fontAwesomeClassname: "simple-icons:express",
           style: {
@@ -177,10 +184,31 @@ const skills = {
           },
         },
         {
-          skillName: "typescript",
-          fontAwesomeClassname: "simple-icons:",
+          skillName: "redux",
+          fontAwesomeClassname: "simple-icons:redux",
           style: {
-            color: "blue",
+            color: "#764abc",
+          },
+        },
+        {
+          skillName: "nextjs",
+          fontAwesomeClassname: "simple-icons:tailwindcss",
+          style: {
+            color: "skyblue",
+          },
+        },
+        {
+          skillName: "NextJS",
+          fontAwesomeClassname: "simple-icons:nextdotjs",
+          style: {
+            color: "black",
+          },
+        },
+        {
+          skillName: "C#",
+          fontAwesomeClassname: "simple-icons:csharp",
+          style: {
+            color: "purple",
           },
         },
       ],
@@ -200,6 +228,27 @@ const skills = {
           fontAwesomeClassname: "simple-icons:amazonaws",
           style: {
             color: "#FF9900",
+          },
+        },
+        {
+          skillName: "cloudflare",
+          fontAwesomeClassname: "simple-icons:cloudflare",
+          style: {
+            color: "yellow",
+          },
+        },
+        {
+          skillName: "cpanel",
+          fontAwesomeClassname: "simple-icons:cpanel",
+          style: {
+            color: "orange",
+          },
+        },
+        {
+          skillName: "docker",
+          fontAwesomeClassname: "simple-icons:docker",
+          style: {
+            color: "skyblue",
           },
         },
         {
