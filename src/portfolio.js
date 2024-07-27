@@ -191,7 +191,7 @@ const skills = {
           },
         },
         {
-          skillName: "nextjs",
+          skillName: "TailwindCSS",
           fontAwesomeClassname: "simple-icons:tailwindcss",
           style: {
             color: "skyblue",
