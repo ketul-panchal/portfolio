@@ -25,8 +25,8 @@ const greeting = {
   subTitle:
     "I'm a full stack web developer with expertise in MERN, Next.js, Flutter. My strengths lie in building scalable and reliable applications, with a focus on creating intuitive user experiences. I'm skilled in both backend and frontend development.",
   resumeLink:
-    "https://drive.google.com/file/d/1UbK2JWwgEFSIuvong6QYrl3cVxq-nBd7/view?usp=sharing",
-  // portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
+    "https://drive.google.com/file/d/1YFeZWfw1b6LmfIoyuV6tDMkSgog_RrcO/view?usp=sharing",
+  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/kpanchal9",
 };
 
@@ -220,8 +220,8 @@ const skills = {
       skills: [
         "⚡ Experience working on multiple cloud platforms",
         "⚡ Hosting and maintaining websites on virtual machine instances along with integration of databases",
-        "⚡ Deploying deep learning models on cloud to use on mobile devices",
-        "⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
+        //"⚡ Deploying deep learning models on cloud to use on mobile devices",
+        //"⚡ Setting up streaming jobs from DB to Server or vice-versa on GCP and AWS",
       ],
       softwareSkills: [
         {
@@ -665,7 +665,7 @@ const publications = {
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
       description: "Food App that's help people easly order food and fast delivery",
-      url: "https://github.com/ketul-panchal/food-app",
+      url: "https://blog.paperspace.com/consistency-models/",
     },
     {
       id: "consistency-models",
