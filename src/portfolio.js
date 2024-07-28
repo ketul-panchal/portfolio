@@ -661,6 +661,14 @@ const publications = {
       url: "https://mainproject-ia3w.onrender.com/listings",
     },
     {
+      id: "mdp-newwbsite",
+      name: "News Website",
+      // createdAt: "2023-10-19T00:00:00Z",
+      createdAt: "Next.js, HTML, CSS, Bootstrap",
+      description: "this is simple news website that gives you lest information and get you up to date with current news",
+      url: "https://news-ashen-three.vercel.app/news",
+    },
+    {
       id: "consistency-models",
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
