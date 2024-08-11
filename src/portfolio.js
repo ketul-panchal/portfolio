@@ -661,6 +661,14 @@ const publications = {
       url: "https://mainproject-ia3w.onrender.com/listings",
     },
     {
+      id: "mdp-medium",
+      name: "Medium",
+      // createdAt: "2023-10-19T00:00:00Z",
+      createdAt: "React.js,PostgreSQL, Hono, Cloudflare",
+      description: "Medium is a simple blog website where anyone can post their blogs and also read other blogs",
+      url: "https://medium-sigma-eosin.vercel.app/signin",
+    },
+    {
       id: "mdp-newwbsite",
       name: "News Website",
       // createdAt: "2023-10-19T00:00:00Z",
