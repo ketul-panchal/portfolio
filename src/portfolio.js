@@ -25,7 +25,7 @@ const greeting = {
   subTitle:
     "I'm a full stack web developer with expertise in MERN, Next.js, Flutter. My strengths lie in building scalable and reliable applications, with a focus on creating intuitive user experiences. I'm skilled in both backend and frontend development.",
   resumeLink:
-    "https://drive.google.com/file/d/1YFeZWfw1b6LmfIoyuV6tDMkSgog_RrcO/view?usp=sharing",
+    "https://drive.google.com/file/d/1UbK2JWwgEFSIuvong6QYrl3cVxq-nBd7/view?usp=sharing",
   portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
   githubProfile: "https://github.com/kpanchal9",
 };
