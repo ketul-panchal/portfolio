@@ -653,6 +653,13 @@ const publications = {
       // url: "https://arxiv.org/abs/2307.00653",
     },
     {
+      id: "neuro-symbolic-sudoku",
+      name: "FlyerFLow 2026 ",
+      createdAt: "Flutter (Dart), Laravel – Admin Panel, MySQL",
+      description: "An Application from the future, FlyerFlow 2026, creates flyers automatically. Our team of graphic designers at Brainbeans, where I work, is really tired of creating flyers by hand and finds it time-consuming. However, using FlyerFlow, they can create flyers and even clients with ease. Flyerflow has an AI generator background, an automated background remover for products, and a single click that displays all product and business info with a comprehensive layout.",
+      // url: "https://arxiv.org/abs/2307.00653",
+    },
+    {
       id: "mdp-diffusion",
       name: "Wunderlust",
       // createdAt: "2023-10-19T00:00:00Z",
