@@ -685,7 +685,7 @@ const publications = {
     },
     {
       id: "mdp-newwbsite",
-      name: "paytm-clone",
+      name: "PayTM Clone",
       // createdAt: "2023-10-19T00:00:00Z",
       createdAt: "Next.js, typescript, tailwindCSS, PostgreSQL, Node.js, Express.js,Turborepo, Docker,",
       description: "This is Paytm Clone where user can can store and exchange money",
