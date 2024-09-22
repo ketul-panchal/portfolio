@@ -684,6 +684,14 @@ const publications = {
       url: "https://news-ashen-three.vercel.app/news",
     },
     {
+      id: "mdp-newwbsite",
+      name: "paytm-clone",
+      // createdAt: "2023-10-19T00:00:00Z",
+      createdAt: "Next.js, typescript, tailwindCSS, PostgreSQL, Node.js, Express.js,Turborepo, Docker,",
+      description: "This is Paytm Clone where user can can store and exchange money",
+      url: "https://github.com/ketul-panchal/paytm",
+    },
+    {
       id: "consistency-models",
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
