@@ -23,11 +23,11 @@ const greeting = {
   logo_name: "Ketulpanchal",
   nickname: "Full Stack Developer",
   subTitle:
-    "I'm a full stack web developer with expertise in MERN, Next.js, Flutter. My strengths lie in building scalable and reliable applications, with a focus on creating intuitive user experiences. I'm skilled in both backend and frontend development.",
+    "I'm a full stack developer with expertise in MERN, Next.js, Laravel, Flutter. My strengths lie in building scalable and reliable applications, with a focus on creating intuitive user experiences. I'm skilled in both backend and frontend development.",
   resumeLink:
     "https://drive.google.com/file/d/1UbK2JWwgEFSIuvong6QYrl3cVxq-nBd7/view?usp=sharing",
-  portfolio_repository: "https://github.com/ashutosh1919/masterPortfolio",
-  githubProfile: "https://github.com/kpanchal9",
+  portfolio_repository: "https://github.com/ketul-panchal/portfolio",
+  githubProfile: "https://github.com/ketul-panchal",
 };
 
 const socialMediaLinks = [
@@ -42,7 +42,7 @@ const socialMediaLinks = [
 
   {
     name: "Github",
-    link: "https://github.com/kpanchal9",
+    link: "https://github.com/ketul-panchal",
     fontAwesomeIcon: "fa-github", // Reference https://fontawesome.com/icons/github?style=brands
     backgroundColor: "#181717", // Reference https://simpleicons.org/?q=github
   },
@@ -79,9 +79,9 @@ const skills = {
       title: "Full Stack Development",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Building responsive website front end using React-Redux",
+        "⚡ Building responsive website front end using React-Redux, Next.js, Laravel, EJS",
         "⚡ Developing mobile applications using Flutter,",
-        "⚡ Creating application backend in Node, Express.",
+        "⚡ Creating application backend in Node, Express, TypeScript, Hono.",
       ],
       softwareSkills: [
         {
@@ -211,6 +211,62 @@ const skills = {
             color: "purple",
           },
         },
+        {
+          skillName: "Turborepo",
+          fontAwesomeClassname: "simple-icons:turborepo",
+          style: {
+            color: "black",
+          },
+        },
+        {
+          skillName: "Hono",
+          fontAwesomeClassname: "simple-icons:hono",
+          style: {
+            color: "lightblue",
+          },
+        },
+        {
+          skillName: "Java",
+          fontAwesomeClassname: "devicon:java",
+          style: {
+            color: "red",
+          },
+        },
+        {
+          skillName: "Postman",
+          fontAwesomeClassname: "simple-icons:postman",
+          style: {
+            color: "orange",
+          },
+        },
+        {
+          skillName: "Swagger (OpenAPI)",
+          fontAwesomeClassname: "simple-icons:swagger",
+          style: {
+            color: "green",
+          },
+        },
+        {
+          skillName: "Prometheus",
+          fontAwesomeClassname: "simple-icons:prometheus",
+          style: {
+            color: "orange",
+          },
+        },
+        {
+          skillName: "Grafana",
+          fontAwesomeClassname: "simple-icons:grafana",
+          style: {
+            color: "darkorange",
+          },
+        },
+        {
+          skillName: "CI/CD",
+          fontAwesomeClassname: "simple-icons:githubactions", // Or another relevant icon like Jenkins, GitLab, etc.
+          style: {
+            color: "blue",
+          },
+        },                               
       ],
     },
     
@@ -252,6 +308,20 @@ const skills = {
             color: "skyblue",
           },
         },
+        {
+          skillName: "Kubernetes",
+          fontAwesomeClassname: "simple-icons:kubernetes",
+          style: {
+            color: "blue",
+          },
+        },  
+        {
+          skillName: "Redis",
+          fontAwesomeClassname: "simple-icons:redis",
+          style: {
+            color: "darkred",
+          },
+        },              
         {
           skillName: "Firebase",
           fontAwesomeClassname: "simple-icons:firebase",
@@ -646,6 +716,34 @@ const publicationsHeader = {
 const publications = {
   data: [
     {
+      id: "neuro-symbolic-sudoku-solver-empire",
+      name: "Sunrise Wholesale",
+      createdAt: "Flutter, WooCommerce REST APIs",
+      description: "A high-performance Flutter WooCommerce apps integrated with a WordPress website",
+      url: "https://apps.apple.com/in/app/sunrise-wholesale/id6738388718",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-empire",
+      name: "Empire Distribution",
+      createdAt: "Flutter, WooCommerce REST APIs",
+      description: "A high-performance Flutter WooCommerce apps integrated with a WordPress website",
+      url: "https://apps.apple.com/in/app/empire-distribution/id6739735244",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-empire",
+      name: "Unity Wholesale",
+      createdAt: "Flutter, WooCommerce REST APIs",
+      description: "A high-performance Flutter WooCommerce apps integrated with a WordPress website",
+      url: "https://apps.apple.com/in/app/unity-wholesale/id6452803980",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-sso",
+      name: "Brainbean SSO",
+      createdAt: "Laravel, REST APIs, My SQL",
+      description: "A Laravel-based SSO (Single Sign-On) website integrating APIs from over 25+ ERPs to streamline access",
+      url: "https://sso.bbtl.app/",
+    },
+    {
       id: "neuro-symbolic-sudoku-solver",
       name: "Rakshak",
       createdAt: ": Node.js, Express.js, MongoDB, HTML, CSS, Bootstrap",
@@ -657,6 +755,13 @@ const publications = {
       name: "FlyerFLow 2026 ",
       createdAt: "Flutter (Dart), Laravel – Admin Panel, MySQL",
       description: "An Application from the future, creates flyers automatically. For our team.",
+      // url: "https://arxiv.org/abs/2307.00653",
+    },
+    {
+      id: "neuro-symbolic-sudoku",
+      name: "Brainbean POS",
+      createdAt: "Flutter (Dart), Laravel",
+      description: "easily access POS From mobile and manage the products and sells",
       // url: "https://arxiv.org/abs/2307.00653",
     },
     {
