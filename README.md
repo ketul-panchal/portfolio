@@ -1,10 +1,5 @@
 # Portfolio
 
-
-
-
-
-
 <h1 align="center"> Software Developer Master Portfolio 🔥 </h1> 
 <h3 align="center"> A clean, beautiful, responsive, and 100% customizable portfolio <br /> template for Software Developers! </h3>
 
@@ -96,9 +91,6 @@ This will fetch all the data from your github and it will automatically replace 
 Whenever you want to update the github related information on the website you need to run this command.
 
 ### Splash Logo
-
-Note here that if you click [my portfolio](https://ashutosh1919.github.io), you can see animating the logo at the beginning. I have designed that logo in [`Figma`](https://www.figma.com/) and then animated it using css.
-Therefore, this part of portfolio is not customizable. But don't worry we have a solution to this problem. You have below two alternatives:
 
 - If you want to design your own logo, then you can design it using `Figma` or `Adobe XD` or `Adobe Illustrator` or `Inkscape`. If you want to animate it, you can refer to `./src/components/Loader` directory which contains `js` and `css` files which animates the logo
 - If you don't want Splash screen or you don't know how to design logo, then this option is for you

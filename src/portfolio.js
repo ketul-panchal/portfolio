@@ -737,6 +737,27 @@ const publications = {
       url: "https://apps.apple.com/in/app/unity-wholesale/id6452803980",
     },
     {
+      id: "neuro-symbolic-sudoku-solver-gotham",
+      name: "Gotham Distribution",
+      createdAt: "Flutter, WooCommerce REST APIs",
+      description: "A high-performance Flutter WooCommerce apps integrated with a WordPress website",
+      url: "https://apps.apple.com/in/app/gotham-distribution/id6740434735",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-newengland",
+      name: "New England Distribution",
+      createdAt: "Flutter, WooCommerce REST APIs",
+      description: "A high-performance Flutter WooCommerce apps integrated with a WordPress website",
+      url: "https://apps.apple.com/in/app/new-england-distribution/id6741199522",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-bbtlpos",
+      name: "Brainbean POS App",
+      createdAt: "Flutter, REST APIs, Laravel",
+      description: "A high-performance Flutter POS apps integrated with a Laravel ERP using REST APIs",
+      url: "",
+    },
+    {
       id: "neuro-symbolic-sudoku-solver-sso",
       name: "Brainbean SSO",
       createdAt: "Laravel, REST APIs, My SQL",
