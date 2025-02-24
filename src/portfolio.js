@@ -751,13 +751,6 @@ const publications = {
       url: "https://apps.apple.com/in/app/new-england-distribution/id6741199522",
     },
     {
-      id: "neuro-symbolic-sudoku-solver-bbtlpos",
-      name: "Brainbean POS App",
-      createdAt: "Flutter, REST APIs, Laravel",
-      description: "A high-performance Flutter POS apps integrated with a Laravel ERP using REST APIs",
-      url: "",
-    },
-    {
       id: "neuro-symbolic-sudoku-solver-sso",
       name: "Brainbean SSO",
       createdAt: "Laravel, REST APIs, My SQL",
