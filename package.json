@@ -6,7 +6,7 @@
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/ketul-panchal/portfolio.git --git D:/D Drive/portfolio/.git"
+    "deploy": "gh-pages -d build -r https://github.com/ketul-panchal/portfolio.git --git D:/D Drive/portfolio/.git",
     "eject": "react-scripts eject",
     "start": "react-scripts --openssl-legacy-provider start",
     "test": "react-scripts test"
