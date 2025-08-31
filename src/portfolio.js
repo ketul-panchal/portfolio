@@ -715,6 +715,34 @@ const publicationsHeader = {
 
 const publications = {
   data: [
+        {
+      id: "neuro-symbolic-sudoku-solver-lux-erp",
+      name: "LUXE - ERP And E-Commerce Website",
+      createdAt: "Turborepo, NextJs, TypeScript, NodeJs, Postgress",
+      description: "A unified Turborepo ERP and eCommerce platform with real-time inventory and a modern storefront.",
+      url: "https://www.upwork.com/freelancers/~01c5fa39b4890a9392?p=1955385959952928768",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-elit-protector",
+      name: "Elite - Protector And Security",
+      createdAt: "Flutter, MERN, REST APIs",
+      description: "A premium Flutter app for on‑demand mobility and protection with secure membership integration",
+      url: "https://www.upwork.com/freelancers/~01c5fa39b4890a9392?p=1955020508802568192",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-crown-pos",
+      name: "Crown POS",
+      createdAt: "Flutter, laravel, REST APIs",
+      description: "A high-performance Flutter POS apps integrated with a Laravel ERP",
+      url: "https://apps.apple.com/in/app/crown-pos/id6743543865",
+    },
+    {
+      id: "neuro-symbolic-sudoku-solver-miami-pos",
+      name: "Miami POS",
+      createdAt: "Flutter, laravel, REST APIs",
+      description: "A high-performance Flutter POS apps integrated with a Laravel ERP",
+      url: "https://apps.apple.com/in/app/miami-pos/id6745701834",
+    },
     {
       id: "neuro-symbolic-sudoku-solver-empire",
       name: "Sunrise Wholesale",
@@ -815,7 +843,7 @@ const publications = {
       name: "E-commerce Food App",
       createdAt: "Flutter (Dart), Laravel, MySQL",
       description: "Food App that's help people easly order food and fast delivery",
-      url: "https://blog.paperspace.com/consistency-models/",
+      url: "https://github.com/ketul-panchal/food-app",
     },
     {
       id: "consistency-models",
