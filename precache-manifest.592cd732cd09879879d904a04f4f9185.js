@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "935cc788d7de7b7b6e5ac0750f99775a",
+    "revision": "90ecd3b0d4a76d069001a89901971ba5",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "0a5821bd0d51eca3dc1c",
+    "revision": "deaf3234be1b43330891",
     "url": "/portfolio/static/css/main.fc347d70.chunk.css"
   },
   {
-    "revision": "8b684cc4c0df0f35cad7",
-    "url": "/portfolio/static/js/2.37d805e0.chunk.js"
+    "revision": "2408b4b8f1a12a9f8032",
+    "url": "/portfolio/static/js/2.38f36cfd.chunk.js"
   },
   {
-    "revision": "0a5821bd0d51eca3dc1c",
-    "url": "/portfolio/static/js/main.5e75a3cb.chunk.js"
+    "revision": "deaf3234be1b43330891",
+    "url": "/portfolio/static/js/main.bb38ffe0.chunk.js"
   },
   {
     "revision": "e73ac9e279836ecdfedf",
@@ -224,6 +224,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/portfolio/static/media/manOnTable.83ac24fb.svg"
   },
   {
+    "revision": "c7fe0b95eda32b07ad4db96a5aab2378",
+    "url": "/portfolio/static/media/mobile-application.c7fe0b95.svg"
+  },
+  {
     "revision": "069938a84edd6ebf383c318e9feb5d4c",
     "url": "/portfolio/static/media/muffito_logo.069938a8.png"
   },
@@ -246,6 +250,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
     "url": "/portfolio/static/media/programmer.5faf790b.svg"
+  },
+  {
+    "revision": "6757f889acf390a4c2a452b1250d7fc2",
+    "url": "/portfolio/static/media/programming.6757f889.svg"
   },
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
