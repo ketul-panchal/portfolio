@@ -722,13 +722,13 @@ const publications = {
       description: "A unified Turborepo ERP and eCommerce platform with real-time inventory and a modern storefront.",
       url: "https://www.upwork.com/freelancers/~01c5fa39b4890a9392?p=1955385959952928768",
     },
-    {
-      id: "neuro-symbolic-sudoku-solver-elit-protector",
-      name: "Elite - Protector And Security",
-      createdAt: "Flutter, MERN, REST APIs",
-      description: "A premium Flutter app for on‑demand mobility and protection with secure membership integration",
-      url: "https://www.upwork.com/freelancers/~01c5fa39b4890a9392?p=1955020508802568192",
-    },
+    // {
+    //   id: "neuro-symbolic-sudoku-solver-elit-protector",
+    //   name: "Elite - Protector And Security",
+    //   createdAt: "Flutter, MERN, REST APIs",
+    //   description: "A premium Flutter app for on‑demand mobility and protection with secure membership integration",
+    //   url: "https://www.upwork.com/freelancers/~01c5fa39b4890a9392?p=1955020508802568192",
+    // },
     {
       id: "neuro-symbolic-sudoku-solver-crown-pos",
       name: "Crown POS",
